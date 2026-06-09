@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+imagenes_optimizadas/
